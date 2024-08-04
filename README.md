@@ -35,8 +35,9 @@
 
  ### Giới thiệu đề tài
  - Mô tả: Gạo là một trong những thực phẩm chính trên toàn thế giới. Lúa là hạt thô trước khi bóc vỏ trấu để trở thành gạo, được trồng ở các vùng khí hậu nhiệt đới, chủ yếu ở các nước châu Á. Việc trồng lúa đòi hỏi sự giám sát thường xuyên vì có nhiều loại bệnh và sâu bệnh có thể ảnh hưởng đến cây lúa, dẫn đến thiệt hại năng suất lên đến 70%. Thông thường cần có sự giám sát của chuyên gia để giảm thiểu các bệnh này và ngăn chặn mất mùa. Với sự hạn chế về số lượng chuyên gia bảo vệ cây trồng, việc chẩn đoán bệnh bằng tay trở nên tốn công và đắt đỏ. Do đó, việc tự động hóa quá trình nhận diện bệnh bằng cách sử dụng các kỹ thuật thị giác máy tính, vốn đã đạt được kết quả hứa hẹn trong nhiều lĩnh vực khác nhau, đang trở nên ngày càng quan trọng.
- - File báo cáo: [Final Report]()
-<img src = "">
+ - File báo cáo: [Final Report](https://github.com/VanKhaiii/CS117.N21/tree/main/Final%20Project)
+ - Minh hoạ bài toán:
+<img src = "https://github.com/VanKhaiii/CS117.N21/blob/main/Images/Illustrations.png">
 
 <!-- Footer -->
 <p align='center'>Copyright © 2022 - Trương Văn Khải</p>
